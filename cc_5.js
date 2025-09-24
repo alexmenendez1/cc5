@@ -44,10 +44,5 @@ return {
 //Step 7 
 employees.forEach(employee => console.log(processPayroll(employee)));
 
-// for (const employee of employees) {
-//     console.log(processPayroll(employee))
-// }
-
-
 
 
